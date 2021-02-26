@@ -14,7 +14,7 @@ Materials from the GLASS meetings
 
 ## Personal Development
 * [Finances & Taxes for Graduate Students (Alex Riley)](https://docs.google.com/presentation/d/1R_TnKsbdiROC4Hi6XIZ2pKh-jMBZeE3QiZpgeTA5ZSg/edit#slide=id.g626ad5c045_1_6)
-** [Recording] (https://drive.google.com/file/d/1LIEXr27QS0Kx1h5sf0CBu9oAntZK-PGq/view?usp=sharing)
+** [Recording](https://drive.google.com/file/d/1LIEXr27QS0Kx1h5sf0CBu9oAntZK-PGq/view?usp=sharing)
 
 
 
