@@ -10,6 +10,7 @@ Materials from the GLASS meetings
 ** [Recording](https://drive.google.com/file/d/1_ojjgXrLktGs3LwCuobRmTETmKVQ81Wr/view?usp=sharing)
 
 ## Professional Development 
+* [Writing telescope proposals: How to even start? (Taylor Hutchison)](https://docs.google.com/presentation/d/1HeC2tvhsVUvDIBwhNeGdEEkL0eIr_w5R3WLGm1Uh3C4/edit?usp=sharing) ** [Recording](https://drive.google.com/file/d/1ib-xsyPeOFJB36lSe4r0plVP7DcdsVZ-/view?usp=drivesdk)
 * [Conferences, Presentations, and Posters (Yaswant Devarakonda, Taylor Hutchison, & Jacqueline Antwi-Danso) ](https://docs.google.com/presentation/d/1RF7jCzn4UuWsIHCONegSV5LibrfA8tNTiQ1soIArgDU/edit?usp=sharing)
 
 ## Personal Development
