@@ -9,7 +9,7 @@ Materials from the GLASS meetings
 * [All Things matplotlib (Taylor Hutchison) ](https://docs.google.com/presentation/d/1YI7kF-2vuh09HagZa8rA1W0697u7nu-AVU_eLAc65Ho/edit?usp=sharing)
 ** [Recording](https://drive.google.com/file/d/1_ojjgXrLktGs3LwCuobRmTETmKVQ81Wr/view?usp=sharing)
 
-* [Pandas 🐼🐼(Yaswant Devarakonda) ](https://github.com/BrianaLane/Pandas_tutorial)
+* [Pandas 🐼🐼 (Yaswant Devarakonda) ](https://github.com/BrianaLane/Pandas_tutorial)
 ** [Recording](https://drive.google.com/file/d/1_ojjgXrLktGs3LwCuobRmTETmKVQ81Wr/view?usp=sharing)
 
 ## Professional Development 
