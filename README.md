@@ -10,7 +10,7 @@ Materials from the GLASS meetings
 ** [Recording](https://drive.google.com/file/d/1_ojjgXrLktGs3LwCuobRmTETmKVQ81Wr/view?usp=sharing)
 
 * [Pandas 🐼🐼 (Yaswant Devarakonda) ](https://github.com/BrianaLane/Pandas_tutorial)
-** [Recording](https://drive.google.com/file/d/1_ojjgXrLktGs3LwCuobRmTETmKVQ81Wr/view?usp=sharing)
+** [Recording](https://drive.google.com/file/d/1wKl-HUv7pdqu19UAslh7TMBTE1TEP4Xm/view?usp=sharing)
 
 ## Professional Development 
 * [How to build a website! (Taylor Hutchison) ](https://docs.google.com/presentation/d/1oW5pfHuXoorJ-mtt05oOtVJSIgtbetPp3cXMvJMfgOw/edit#slide=id.g626ad5c045_1_6) ** [Recording](https://drive.google.com/file/d/1pYEujK0JY1vPTTySlzeywkjjkzv8Ed9f/view?usp=sharing)
