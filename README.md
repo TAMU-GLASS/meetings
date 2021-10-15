@@ -12,6 +12,9 @@ Materials from the GLASS meetings
 * [Pandas 🐼🐼 (Yaswant Devarakonda) ](https://github.com/BrianaLane/Pandas_tutorial)
 ** [Recording](https://drive.google.com/file/d/1wKl-HUv7pdqu19UAslh7TMBTE1TEP4Xm/view?usp=sharing)
 
+* [Plot n Code Brag Session]
+** [Recording](https://drive.google.com/file/d/12kWe_0omhCEOKWFGtage622ucMgZSA4v/view?usp=sharing)
+
 ## Professional Development 
 * [How to build a website! (Taylor Hutchison) ](https://docs.google.com/presentation/d/1oW5pfHuXoorJ-mtt05oOtVJSIgtbetPp3cXMvJMfgOw/edit#slide=id.g626ad5c045_1_6) ** [Recording](https://drive.google.com/file/d/1pYEujK0JY1vPTTySlzeywkjjkzv8Ed9f/view?usp=sharing)
 * [Writing telescope proposals: How to even start? (Taylor Hutchison)](https://docs.google.com/presentation/d/1HeC2tvhsVUvDIBwhNeGdEEkL0eIr_w5R3WLGm1Uh3C4/edit?usp=sharing) ** [Recording](https://drive.google.com/file/d/1ib-xsyPeOFJB36lSe4r0plVP7DcdsVZ-/view?usp=drivesdk)
