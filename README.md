@@ -12,7 +12,7 @@ Materials from the GLASS meetings
 * [Pandas 🐼🐼 (Yaswant Devarakonda) ](https://github.com/BrianaLane/Pandas_tutorial)
 ** [Recording](https://drive.google.com/file/d/1wKl-HUv7pdqu19UAslh7TMBTE1TEP4Xm/view?usp=sharing)
 
-* [Plot n Code Brag Session]
+* Plot n Code Brag Session
 ** [Recording](https://drive.google.com/file/d/12kWe_0omhCEOKWFGtage622ucMgZSA4v/view?usp=sharing)
 
 ## Professional Development 
