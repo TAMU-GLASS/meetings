@@ -22,6 +22,7 @@ Materials from the GLASS meetings
 * [Grants & Opportunities (Taylor Hutchison)](https://docs.google.com/presentation/d/1MdgYDb7S4N1eyWXdcfiDYdv4K9pCiC8vE2o6-1jUqes/edit?usp=sharing) ** [Recording](https://drive.google.com/file/d/1ZxcUjxbygmkMkcuOLWBLKTJymLWYZW8R/view?usp=sharing)
 
 ## Personal Development
+* [Investing and Retirement (Alex Riley)][https://docs.google.com/presentation/d/1X_5zj_5wCdhFhvXUCTpiQFLGWiruDiaE07B8opA17L0/edit?usp=sharing]
 * [Finances & Taxes for Graduate Students (Alex Riley)](https://docs.google.com/presentation/d/1R_TnKsbdiROC4Hi6XIZ2pKh-jMBZeE3QiZpgeTA5ZSg/edit#slide=id.g626ad5c045_1_6)
 ** [Recording](https://drive.google.com/file/d/1LIEXr27QS0Kx1h5sf0CBu9oAntZK-PGq/view?usp=sharing)
 
