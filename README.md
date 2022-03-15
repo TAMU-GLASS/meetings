@@ -4,6 +4,7 @@ Materials from the GLASS meetings
 # Covered Topics 
 
 ## Coding Tips and Tricks 
+* [Effective Real World Scientific Computing](Aditya Sengupta)(https://docs.google.com/presentation/d/1NEdsuPqi42MdcP8RVrGjC_iFiBLJir5zQnNY6ogyjJk/edit?usp=sharing)**[Recording](https://drive.google.com/file/d/1FJYuHmCw0wrBvgh8VEA7HYF-sQNlITrr/view?usp=sharing)
 * [Version Control for Astronomers (Alex Riley) ](https://docs.google.com/presentation/d/1iqvaK9kI23hHYTq0bxfW-QCH5kSfdnsONh-ajzXpVxY/edit#slide=id.p)
 
 * [All Things matplotlib (Taylor Hutchison) ](https://docs.google.com/presentation/d/1YI7kF-2vuh09HagZa8rA1W0697u7nu-AVU_eLAc65Ho/edit?usp=sharing)
